@@ -6,7 +6,7 @@ export const HeroSection: React.FC = () => {
       <div className="flex justify-between items-center w-11/12 max-w-6xl">
         <div className="max-w-md w-2/3">
           <h1 className="font-bold text-6xl mb-2 leading-tight">
-            More than just <br /> shorter links
+            More than just shorter links
           </h1>
           <p className="text-gray-400 mb-8 max-w-sm">
             Build your brand's recognition and get detailed insights on how
@@ -20,7 +20,6 @@ export const HeroSection: React.FC = () => {
             alt="Man working illustration"
             className="relative -right-64"
             width={1200}
-            
           />
         </div>
       </div>

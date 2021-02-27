@@ -19,7 +19,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta
           property="og:url"
-          content="http://euro-travel-example.com/index.htm"
+          content="https://shortify-two.vercel.app/"
         />
       </Head>
       <Component {...pageProps} />
