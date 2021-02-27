@@ -15,7 +15,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         />
         <meta
           property="og:image"
-          content="http://euro-travel-example.com/thumbnail.jpg"
+          content="/images/website-preview.jpg"
         />
         <meta
           property="og:url"
